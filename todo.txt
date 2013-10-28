@@ -1,9 +1,0 @@
-To Do:
-
-tic_tac_toe_ai.rb:
--incorporate the is_winning_node? function into the initialize_tree function, and make init_tree recursive
--explore the possibility of reducing the redundancy of symmetric positions ie
-
--ox     xo-
----  == ---
----     ---
